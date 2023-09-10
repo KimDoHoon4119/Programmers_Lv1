@@ -1,2 +1,2 @@
 # Programmers_Lv1
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+Programmers JAVA 1단계 문제풀이
